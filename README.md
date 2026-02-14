@@ -72,8 +72,8 @@ I'm committing to code for at least 1 hour every day for the next 100 days, foll
 ## Connect With Me
 
 - **Twitter:** [@wazcodes](https://www.x.com/wazcodes) - Follow my #100DaysOfCode journey
-- **LinkedIn:** [Mohamed Wazeem Jassir](linkedin.com/in/mohamedwazeemj)
-- **Blog:** [dev.to/mohamedwazeemj](dev.to/mohamedwazeemj)
+- **LinkedIn:** [Mohamed Wazeem Jassir](https://www.linkedin.com/in/mohamedwazeemj)
+- **Blog:** [dev.to/mohamedwazeemj](https://www.dev.to/mohamedwazeemj)
 
 ## Acknowledgments
 
