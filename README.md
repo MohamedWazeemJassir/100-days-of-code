@@ -82,6 +82,6 @@ I'm committing to code for at least 1 hour every day for the next 100 days, foll
 
 
 **Start Date:** 
-**Current Day:** Day 7
+**Current Day:** Day 8
 
 *"The expert in anything was once a beginner." - Helen Hayes*
