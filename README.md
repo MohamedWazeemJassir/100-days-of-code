@@ -29,6 +29,7 @@ I'm committing to code for at least 1 hour every day for the next 100 days, foll
 | 3 | Control Flow & Logical Operators | Treasure Island | ✅ |
 | 4 | Randomisation & Lists | Rock Paper Scissors | ✅ |
 | 5 | Loops | Password Generator | ✅ |
+| 6 | Functions | Maze | ✅ |
 | ... | ... | ... | ... |
 
 *Legend: ✅ Complete | 🔄 In Progress | ⬜ Not Started*
